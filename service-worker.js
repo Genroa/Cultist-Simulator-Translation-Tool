@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Cultist-Simulator-Translation-Tool/precache-manifest.7c2e3ea04229c92d99e2fe4a6f2a5dc5.js"
+  "/Cultist-Simulator-Translation-Tool/precache-manifest.e23f824bf8790c786a113a4da56f7b0d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "cultistsimulatortranslator"});

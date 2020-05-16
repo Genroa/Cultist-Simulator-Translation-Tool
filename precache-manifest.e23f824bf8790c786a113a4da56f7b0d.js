@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16e724bcfb20bf2b81b9",
+    "revision": "28d1946f200dc1ae829a",
     "url": "/Cultist-Simulator-Translation-Tool/css/app.e7196e0f.css"
   },
   {
-    "revision": "d40d77616d0fa8bb66d2",
-    "url": "/Cultist-Simulator-Translation-Tool/css/chunk-vendors.b27e6a3f.css"
+    "revision": "3553836a69fc503572f4",
+    "url": "/Cultist-Simulator-Translation-Tool/css/chunk-vendors.fa8aea91.css"
   },
   {
-    "revision": "a96a6d88d2e58700c166aa51c9732a5e",
+    "revision": "efb7844aef440dd6a26ef056fd513604",
     "url": "/Cultist-Simulator-Translation-Tool/index.html"
   },
   {
-    "revision": "16e724bcfb20bf2b81b9",
-    "url": "/Cultist-Simulator-Translation-Tool/js/app.6442bc29.js"
+    "revision": "28d1946f200dc1ae829a",
+    "url": "/Cultist-Simulator-Translation-Tool/js/app.9cc6f0d9.js"
   },
   {
-    "revision": "d40d77616d0fa8bb66d2",
-    "url": "/Cultist-Simulator-Translation-Tool/js/chunk-vendors.946d708e.js"
+    "revision": "3553836a69fc503572f4",
+    "url": "/Cultist-Simulator-Translation-Tool/js/chunk-vendors.23f4f98b.js"
   },
   {
     "revision": "93df7b9ac6fff2dfeb6dccfaeb973384",
