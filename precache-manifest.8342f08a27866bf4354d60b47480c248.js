@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cultist-Simulator-Translation-Tool/browserconfig.xml"
   },
   {
-    "revision": "310b0cc42ac9d164d453",
+    "revision": "ea1d76a4aaa6c21c76f7",
     "url": "/Cultist-Simulator-Translation-Tool/css/app.e7196e0f.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Cultist-Simulator-Translation-Tool/css/chunk-vendors.bb2c1d04.css"
   },
   {
-    "revision": "175f96b281bf3c77995fbab4f2b22752",
+    "revision": "d6e1222acb06463afd97f8bb1e54eea7",
     "url": "/Cultist-Simulator-Translation-Tool/index.html"
   },
   {
-    "revision": "310b0cc42ac9d164d453",
-    "url": "/Cultist-Simulator-Translation-Tool/js/app.cb04e3e8.js"
+    "revision": "ea1d76a4aaa6c21c76f7",
+    "url": "/Cultist-Simulator-Translation-Tool/js/app.36f38fff.js"
   },
   {
     "revision": "fdc185819cbe68b88ae0",
