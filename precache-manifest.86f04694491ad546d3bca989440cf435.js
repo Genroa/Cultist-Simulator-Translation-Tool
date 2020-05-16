@@ -1,5 +1,9 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
+    "revision": "fa5a61508e5785f407bcbcaaf3564a64",
+    "url": "/Cultist-Simulator-Translation-Tool/browserconfig.xml"
+  },
+  {
     "revision": "28d1946f200dc1ae829a",
     "url": "/Cultist-Simulator-Translation-Tool/css/app.e7196e0f.css"
   },
